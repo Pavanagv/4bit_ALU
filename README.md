@@ -98,6 +98,10 @@ Time=40000 A=0101 B=0011 SEL=100 Y=0110
 
 ![Waveform](waveform.png)
 
+## Block Diagram & Truth Table
+
+![ALU Block Diagram](alu_block_diagram.png)
+
 ## Learning Outcomes
 - Understanding combinational circuit design
 - Writing Verilog RTL code
